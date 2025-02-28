@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CalculadoraUVEG">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Calculadora/out/artifacts/CalculadoraUVEG_jar/CalculadoraUVEG.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
