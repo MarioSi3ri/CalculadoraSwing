@@ -73,9 +73,9 @@ El proyecto no utiliza dependencias externas ni un sistema de construcción como
 
 ```text
 CalculadoraSwing/
-├── .idea/                                      # Configuración del proyecto para IntelliJ IDEA
+├── .idea/                                     # Configuración del proyecto para IntelliJ IDEA
 ├── Calculadora/
-│   ├── .idea/                                  # Configuración específica del módulo
+│   ├── .idea/                                 # Configuración específica del módulo
 │   ├── src/
 │   │   ├── main/
 │   │   │   ├── java/
@@ -83,13 +83,13 @@ CalculadoraSwing/
 │   │   │   │       └── si3ri/
 │   │   │   │           ├── Calculadora.java   # Punto de entrada y ventana principal
 │   │   │   │           ├── interfaz/
-│   │   │   │           │   └── Interfaz.java # Componentes y lógica de la calculadora
+│   │   │   │           │   └── Interfaz.java  # Componentes y lógica de la calculadora
 │   │   │   │           └── mouse/
 │   │   │   │               └── MouseListener.java # Efectos visuales del mouse
 │   │   │   └── META-INF/
 │   │   │       └── MANIFEST.MF                # Clase principal del JAR
 │   │   └── .gitignore
-├── CalculadoraSwing.iml                        # Módulo de IntelliJ IDEA
+├── CalculadoraSwing.iml                       # Módulo de IntelliJ IDEA
 └── README.md
 ```
 
@@ -279,7 +279,7 @@ Las contribuciones son bienvenidas para fines educativos y de mejora del proyect
 
 ## 📄 Licencia
 
-Actualmente, el repositorio no especifica una licencia formal. Si deseas permitir, definir o restringir el uso, modificación y distribución del proyecto, se recomienda agregar un archivo `LICENSE` con la licencia correspondiente.
+Este proyecto se distribuye bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) para conocer los términos completos.
 
 ---
 
