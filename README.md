@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-17%2B-orange?logo=openjdk)
 ![Swing](https://img.shields.io/badge/GUI-Java%20Swing-blue)
 ![Estado](https://img.shields.io/badge/estado-acad%C3%A9mico-informational)
-![Licencia](https://img.shields.io/badge/licencia-no%20especificada-lightgrey)
+![Licencia](https://img.shields.io/badge/Licencia-MIT-green.svg)
 
 Aplicación de escritorio desarrollada en **Java** utilizando **Swing** para implementar una calculadora básica con interfaz gráfica. El proyecto forma parte de la asignatura **Tópicos Avanzados de Programación** y corresponde a la actividad **R1. UVEG**.
 
